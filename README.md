@@ -16,15 +16,24 @@ where:
 
 Pref file format is: Dominic Jones,Hannah McAllister,-100
 
-##Requirements
+## Requirements
 
    * A survey file exists in the data dir corresponding to the term, e.g., art101s22
    * A pref file exists in the data dir for this term, e.g., art101s22-pref
    * GatorGrouper is installed
 
-##Caveats
+## Caveats
 
-Python 3.10 changes a few things. Particularly, CSV files may not be able to be read without changing a line in `gatorgrouper/utils/read_student_file.py`.
+I had some problems with GatorGrouper in Python 3.10.
+
+Particularly, CSV files may not be able to be read without a fwe changes to `gatorgrouper/utils/read_student_file.py`.
 
 * Change `read(1024)` to `readline()`
 * Change `csv.reader(csvfile)` to `csv.reader(csvfile, quotechar='"', delimiter=',')`
+
+I also had a problem with the Mappings module not being found:
+
+```
+ImportError: cannot import name 'Mapping' from 'collections'
+```
+This is caused by a change in the collections interface starting with Python 3.10. I fixed this by updating all of my installed packages.
