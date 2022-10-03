@@ -7,20 +7,69 @@ The program relies on the graph function of [GatorGrouper](https://github.com/Ga
 ## Usage
 
 Usage: group.py classname term groups [pref]
-where:
 
 * classname: class name, e.g., art101
 * term: current term, e.g., f21, s22
 * groups: number of groups (has to be a power of 2)
-* pref: any value indicates a pref file has been written in data dir, e.g., art101-pref.csv
+* pref: any value indicates a pref file has been written in data dir
 
-Pref file format is: Dominic Jones,Hannah McAllister,-100
+Example:
+
+```
+% py group.py art101 f22 true
+```
+which will expect student data in `data/art101-f22.csv` and student preferences in `data/art101-f22-pref.csv`
+
+The preferences file format is:
+```
+Dominic Jones,Hannah McAllister,-100
+```
+indicating these students do not want to work together.
 
 ## Requirements
 
-   * A survey file exists in the data dir corresponding to the term, e.g., art101s22. I generated the survey from a google form similar to [this one](https://docs.google.com/forms/d/e/1FAIpQLSdW9A2Vj6IasFg4MR4DDaGZzsvfR4A2fA4T0cLx4-K5LUptcw/viewform).
-   * A pref file exists in the data dir for this term, e.g., art101s22-pref
+   * Config file exists in the grouper dir
+   * CSV survey file exists in the data dir corresponding to the term, e.g., art101-s22.
+   * I generated the survey from a google form similar to [this one](https://docs.google.com/forms/d/e/1FAIpQLSccIhmCWCQJsJZb9ufQiZGFb8NhfwjdQeqK_26_KfXpaAbeKg/viewform).
+   * A pref file exists in the data dir for this term if indicated, e.g., art101s22-pref
    * GatorGrouper is installed
+
+## Config File
+
+The config file describes how fields in the student data are matched, similar or diverse:
+```
+OBJECTIVES = [
+    {
+        "field": "schedule 1",
+        "measure": "similar",
+        "weight": 10,
+    },
+    .
+    .
+    .
+    {
+        "field": "expertise 1",
+        "measure": "diverse",
+        "weight": 10,
+    },
+    .
+    .
+    .
+    {
+        "field": "interest 1",
+        "measure": "similar",
+        "weight": 3,
+    },
+    .
+    .
+    .
+]
+
+PREFERENCES = {
+    "weight": -100,
+    "matchweight": 100
+}
+```
 
 ## Caveats
 
