@@ -8,11 +8,23 @@ The program relies on the graph function of [GatorGrouper](https://github.com/Ga
 
 Usage: group.py classname term groups [pref]
 where:
-   classname: class name, e.g., art101
-   term: current term, e.g., f21, s22
-   groups: number of groups (has to be a power of 2)
-   pref: any value indicates a pref file has been written in data dir, e.g., art101-pref.csv
-      Pref file format is: Dominic Jones,Hannah McAllister,-100
-Requirements:
+
+* classname: class name, e.g., art101
+* term: current term, e.g., f21, s22
+* groups: number of groups (has to be a power of 2)
+* pref: any value indicates a pref file has been written in data dir, e.g., art101-pref.csv
+
+Pref file format is: Dominic Jones,Hannah McAllister,-100
+
+##Requirements
+
    * A survey file exists in the data dir corresponding to the term, e.g., art101s22
    * A pref file exists in the data dir for this term, e.g., art101s22-pref
+   * GatorGrouper is installed
+
+##Caveats
+
+Python 3.10 changes a few things. Particularly, CSV files may not be able to be read without changing a line in `gatorgrouper/utils/read_student_file.py`.
+
+* Change `read(1024)` to `readline()`
+* Change `csv.reader(csvfile)` to `csv.reader(csvfile, quotechar='"', delimiter=',')`
