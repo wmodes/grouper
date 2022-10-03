@@ -18,7 +18,7 @@ Pref file format is: Dominic Jones,Hannah McAllister,-100
 
 ## Requirements
 
-   * A survey file exists in the data dir corresponding to the term, e.g., art101s22. I generated the survey from a google form similar to [this one[(https://docs.google.com/forms/d/e/1FAIpQLSdW9A2Vj6IasFg4MR4DDaGZzsvfR4A2fA4T0cLx4-K5LUptcw/viewform)].
+   * A survey file exists in the data dir corresponding to the term, e.g., art101s22. I generated the survey from a google form similar to [this one](https://docs.google.com/forms/d/e/1FAIpQLSdW9A2Vj6IasFg4MR4DDaGZzsvfR4A2fA4T0cLx4-K5LUptcw/viewform).
    * A pref file exists in the data dir for this term, e.g., art101s22-pref
    * GatorGrouper is installed
 
