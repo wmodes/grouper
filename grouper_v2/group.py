@@ -87,7 +87,7 @@ class Grouper(object):
         with open(self.datafile, newline='') as csvfile:
             reader = csv.DictReader(csvfile,                    self.received_fields, restkey='extras', skipinitialspace=True)
             # skips the header line
-            next(reader)
+            # next(reader)
             for row in reader:
                 if row['name'] != '':
                     self.class_data.append(dict(row))
