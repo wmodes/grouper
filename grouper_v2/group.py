@@ -85,7 +85,7 @@ class Grouper(object):
         """
         print ('* Reading class data')
         with open(self.datafile, newline='') as csvfile:
-            reader = csv.DictReader(csvfile,                    self.received_fields, restkey='extras', skipinitialspace=True)
+            reader = csv.DictReader(csvfile, self.received_fields, restkey='extras', skipinitialspace=True)
             # skips the header line
             # next(reader)
             for row in reader:
@@ -100,7 +100,7 @@ class Grouper(object):
             # combine name and Email in name col
             self.class_data[i]['name'] = f"{self.class_data[i]['name']} <{self.class_data[i]['email']}>"
             # remove weird characters from names
-            self.class_data[i]['name'] = re.sub(r'[^-.@<>\w\s]','', self.class_data[i]['name'])
+            self.class_data[i]['name'] = re.sub(r'[^,-.@<>\w\s]','', self.class_data[i]['name'])
             # remove email column
             self.class_data[i].pop('email', None)
             # remove Extras

@@ -161,3 +161,5 @@ cython_debug/
 
 # Local files
 data
+student_lists
+*.swp
