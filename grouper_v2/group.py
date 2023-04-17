@@ -140,7 +140,7 @@ class Grouper(object):
 
         Sample command line for gatorgrouper:
 
-        python gatorgrouper_cli.py --file data/test-prep.csv --num-group 4 --method graph --objective-measures diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff --objective-weights -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 10 10 10 -15 5 -5 5 3 -3 -3 -3 -3 -3 -3 -3 -3 -3--preferences data/test-pref.csv --preferences-weight -100 --preferences-weight-match 100"
+        python gatorgrouper_cli.py --file data/test-prep.csv --num-group 4 --method graph --objective-measures diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff diff --objective-weights -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 -10 10 10 10 -15 5 -5 5 3 -3 -3 -3 -3 -3 -3 -3 -3 -3 --preferences data/test-pref.csv --preferences-weight -100 --preferences-weight-match 100"
         """
         cli_file = f"--file {self.prepfile}"
         cli_groups = f"--num-group {self.numgroups}"
