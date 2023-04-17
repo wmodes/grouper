@@ -1,3 +1,9 @@
+# playtest scheduler
+# like speed dating for games playtesting
+#
+# Wes Modes <wmodes@ucsc.edu>
+# April 2023
+
 import random
 
 # Set the number of groups, faculty, days, and periods
