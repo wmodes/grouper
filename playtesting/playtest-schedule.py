@@ -12,6 +12,13 @@ num_groups = 38
 team_nums = list(range(1, num_groups+1))
 all_groups = [f"Team {str(team).zfill(2)}" for team in team_nums]
 bad_luck_threshold = 100
+bad_luck_text = """
+BAD LUCK! Rerun the script
+
+Here's why: While choosing the last few playtesters in a session, it can 
+happen that the only playtesters left, since they are randomly selected, 
+are ones that were previously matched to a host.
+"""
 
 all_faculty = [
     "Tamara",
@@ -86,7 +93,7 @@ for day in range(1, num_days+1):
                 # is that the only playtester left is a previous pair
                 iterations += 1
                 if iterations > bad_luck_threshold:
-                    print("BAD LUCK! Rerun the script")
+                    print(bad_luck_text)
                     exit(1)
             # remove playtester if already assigned
             playtester_pool.remove(playtester) 
@@ -142,7 +149,7 @@ for day in range(1, num_days+1):
                 # is that the only playtester left is a previous pair
                 iterations += 1
                 if iterations > bad_luck_threshold:
-                    print("BAD LUCK! Rerun the script")
+                    print(bad_luck_text)
                     exit(1)
             # remove playtester once assigned
             playtester_pool.remove(playtester) 
