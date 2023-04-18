@@ -69,7 +69,10 @@ for day in range(1, num_days+1):
     # Assign the second half of the groups, along with the faculty to playtesting duties
     playtesting_groups = all_groups[(num_groups + num_faculty)//2:] + all_faculty
 
-    day_str = f"DAY {day} (first half)"
+    if num_days == 1:
+        day_str = f"PLAYTESTING DAY (first half)"
+    else:
+        day_str = f"DAY {day} (first half)"
     underline = "=" * len(day_str)
     print(f"\n{day_str}\n{underline}")
         # print("hosting:", f"({len(hosting_groups)} groups)", hosting_groups)
@@ -125,7 +128,10 @@ for day in range(1, num_days+1):
     # Assign the second half of the groups, along with the faculty to playtesting duties
     playtesting_groups = all_groups[(num_groups + num_faculty)//2:] + all_faculty
 
-    day_str = f"DAY {day} (second half)"
+    if num_days == 1:
+        day_str = f"PLAYTESTING DAY (second half)"
+    else:
+        day_str = f"DAY {day} (second half)"
     underline = "=" * len(day_str)
     print(f"\n{day_str}\n{underline}")
     # print("hosting:", f"({len(hosting_groups)} groups)", hosting_groups)
