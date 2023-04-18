@@ -5,11 +5,13 @@
 # April 2023
 
 import random
+import pprint
 
 # Set the number of groups, faculty, days, and periods
 num_groups = 38
 team_nums = list(range(1, num_groups+1))
 all_groups = [f"Team {str(team).zfill(2)}" for team in team_nums]
+bad_luck_threshold = 100
 
 all_faculty = [
     "Tamara",
@@ -46,6 +48,10 @@ for day in range(1, num_days+1):
     # shuffle the groups
     random.shuffle(all_groups)
 
+    # create a record of who gets paired during the day
+    # to prevent rematching
+    day_record_of_pairs = {}
+
     # FIRST HALF
 
     # Assign the first half of the groups, to hosting duties
@@ -64,11 +70,25 @@ for day in range(1, num_days+1):
     for period in range(1, num_periods//2 + 1):
         # create an empty schedule
         schedule = []
-        print(f"\nSession {period}")
+        # make a copy of the list of playtesters from which to pick
         playtester_pool = playtesting_groups[:]
+        print(f"\nSession {period}")
         for session in range(1, len(hosting_groups) + 1):
             host = hosting_groups[session - 1]
-            playtester = random.choice(playtester_pool)
+            # check to make sure host and playtester not already paired
+            iterations = 0
+            while True:
+                playtester = random.choice(playtester_pool)
+                if host not in day_record_of_pairs or playtester not in day_record_of_pairs[host]:
+                    break
+                # it can happen that the only playtester left 
+                # (since they are randomly selected)
+                # is that the only playtester left is a previous pair
+                iterations += 1
+                if iterations > bad_luck_threshold:
+                    print("BAD LUCK! Rerun the script")
+                    exit(1)
+            # remove playtester if already assigned
             playtester_pool.remove(playtester) 
             schedule.append({
                 "Day": day,
@@ -77,7 +97,13 @@ for day in range(1, num_days+1):
                 "Host": host,
                 "Playtester": playtester,
             })
+            # record who got paired with whom that day
+            if host not in day_record_of_pairs:
+                day_record_of_pairs[host] = [playtester]
+            else:
+                day_record_of_pairs[host].append(playtester)
         print_sorted_schedule(schedule)
+        # pprint.pprint(day_record_of_pairs)
 
     # SECOND HALF
 
@@ -100,11 +126,25 @@ for day in range(1, num_days+1):
     for period in range(num_periods//2 + 1, num_periods + 1):
         # create an empty schedule
         schedule = []
-        print(f"\nSession {period}")
+        # make a copy of the list of playtesters from which to pick
         playtester_pool = playtesting_groups[:]
+        print(f"\nSession {period}")
         for session in range(1, len(hosting_groups) + 1):
             host = hosting_groups[session - 1]
-            playtester = random.choice(playtester_pool)
+            # check to make sure host and playtester not already paired
+            iterations = 0
+            while True:
+                playtester = random.choice(playtester_pool)
+                if host not in day_record_of_pairs or playtester not in day_record_of_pairs[host]:
+                    break
+                # it can happen that the only playtester left 
+                # (since they are randomly selected)
+                # is that the only playtester left is a previous pair
+                iterations += 1
+                if iterations > bad_luck_threshold:
+                    print("BAD LUCK! Rerun the script")
+                    exit(1)
+            # remove playtester once assigned
             playtester_pool.remove(playtester) 
             schedule.append({
                 "Day": day,
@@ -113,4 +153,10 @@ for day in range(1, num_days+1):
                 "Host": host,
                 "Playtester": playtester,
             })      
+            # record who got paired with whom that day
+            if host not in day_record_of_pairs:
+                day_record_of_pairs[host] = [playtester]
+            else:
+                day_record_of_pairs[host].append(playtester)
         print_sorted_schedule(schedule)
+        # pprint.pprint(day_record_of_pairs)
