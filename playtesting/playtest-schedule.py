@@ -13,11 +13,13 @@ team_nums = list(range(1, num_groups+1))
 all_groups = [f"Team {str(team).zfill(2)}" for team in team_nums]
 bad_luck_threshold = 100
 bad_luck_text = """
-BAD LUCK! Rerun the script
+While choosing the last few playtesters in a session, it can happen that
+the only playtesters left, since they are randomly selected, are ones that
+were previously matched to a host.
 
-Here's why: While choosing the last few playtesters in a session, it can 
-happen that the only playtesters left, since they are randomly selected, 
-are ones that were previously matched to a host.
+I could probably make it redo the whole session automatically, but for now..
+
+BAD LUCK! Rerun the script
 """
 
 all_faculty = [
