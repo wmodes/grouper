@@ -12,7 +12,7 @@ This script is a scheduling tool for playtesting sessions in which a set of grou
 
 The script assigns each group to a session (i.e., a specific period in a day), during which they either host or participate in a playtesting session. It uses a "speed dating" algorithm in which each group hosts one session and participates as a playtester in another session. The algorithm ensures that no group is paired with another group it has already hosted or been a playtester with.
 
-The script has parameters that can be adjusted, including the number of groups, the number of faculty members who will be participating, the number of days and periods in a day for which the scheduling will take place, and the bad luck threshold that determines when the script should terminate if it is unable to match groups due to limited options.
+The script has parameters that can be adjusted, including the number of groups, the number of faculty members who will be participating, and the number of days and periods in a day for which the scheduling will take place.
 
 ## Example
 
