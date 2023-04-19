@@ -163,3 +163,4 @@ cython_debug/
 data
 student_lists
 *.swp
+.DS_Store
