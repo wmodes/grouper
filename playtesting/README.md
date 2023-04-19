@@ -18,7 +18,7 @@ The script has parameters that can be adjusted, including the number of groups, 
 
 To run the script, you can simply execute the Python script in your command line or IDE. There are several parameters that can be adjusted within the script itself, such as the number of groups, faculty members, and days.
 
-The script will output the schedule for each session, showing which group is hosting and which is playtesting, and print a warning message if the bad luck threshold is reached, indicating that the script is unable to make any more matches due to limited options.
+The script will output the schedule for each session, showing which group is hosting and which group or faculty are playtesting.
 
 Here is an example of how to run the script:
 
