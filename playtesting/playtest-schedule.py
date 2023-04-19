@@ -161,7 +161,7 @@ if __name__ == '__main__':
     # Set the number of groups, faculty, days, and periods
     num_groups = 38
     num_faculty = 3
-    num_days = 2
+    num_days = 1
     num_periods = 6        
     faculty_list = [
         "Tamara",

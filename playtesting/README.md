@@ -26,4 +26,4 @@ Here is an example of how to run the script:
 python playtest_scheduler.py
 ```
 
-Thanks to my pal and programming partner [ChatGPT](https://chat.openai.com/) (who also wrote this README).
+Thanks to my pals and programming partners [ChatGPT](https://chat.openai.com/) and [Bard](https://bard.google.com/) (who also helped write this README).
