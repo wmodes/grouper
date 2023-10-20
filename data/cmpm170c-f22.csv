@@ -1,0 +1,238 @@
+Timestamp,Email Address,Full Name,Class,Group Meeting Times [Mon Morning],Group Meeting Times [Mon Afternoon],Group Meeting Times [Tue Morning],Group Meeting Times [Tue Afternoon],Group Meeting Times [Wed Morning],Group Meeting Times [Wed Afternoon],Group Meeting Times [Thu Morning],Group Meeting Times [Thu Afternoon],Group Meeting Times [Fri Morning],Group Meeting Times [Fri Afternoon],Group Meeting Times [Sat Morning],Group Meeting Times [Sat Afternoon],Group Meeting Times [Sun Morning],Group Meeting Times [Sun Afternoon],Group Meeting Times [Some Weekday Evenings],Group Meeting Times [Weekend Evenings],Rate Your Experience [Design & Creativity],Rate Your Experience [Programming & Technical],Rate Your Experience [Writing & Communication],Commitment Level,Leadership Role,Group Organization,Big Picture vs. Details,Social,Research Interest [Action Games],Research Interest [Adventure Games],Research Interest [Puzle Games],Research Interest [Role-Playing Games],Research Interest [Simulators],Research Interest [Strategy Games],Research Interest [Sports & Racing Games],Research Interest [Casual & Idle Games],Research Interest [Something Completely Different],Jam 1 Group,Jam 2 Group
+9/20/2022 20:05:28,dchung7@ucsc.edu,"Chung, Danny",CMPM,4,2,2,1,4,2,1,4,4,2,4,5,4,5,3,4,2,4,3,2,1,3,2,1,5 - Hella,2,3,1 - Meh,3,3,4,5 - Hella,1 - Meh,#N/A,#N/A
+9/20/2022 20:49:13,stancio@ucsc.edu,"Tancio, Sam",ARTG,1,3,1,4,1,3,1,4,1,5,1,4,2,4,3,3,5,2,5,5,4,2,3,4,4,5 - Hella,3,5 - Hella,5 - Hella,3,2,5 - Hella,4,#N/A,#N/A
+9/21/2022 0:04:47,lzhao30@ucsc.edu,"Zhao, Marshall",ARTG,1,4,1,5,1,5,1,4,1,3,1,4,1,4,3,3,5,3,4,3,3,1,2,4,3,2,1 - Meh,4,5 - Hella,5 - Hella,5 - Hella,2,5 - Hella,#N/A,#N/A
+9/21/2022 11:31:09,dfickes@ucsc.edu,"Fickes, Denae",ARTG,3,5,2,1,3,5,2,1,3,4,2,4,2,4,3,3,4,2,5,5,3,2,3,3,2,5 - Hella,5 - Hella,1 - Meh,2,3,1 - Meh,4,5 - Hella,#N/A,#N/A
+9/21/2022 12:06:39,yxiang27@ucsc.edu,"Xiang, Yicheng",CMPM,3,5,1,1,3,5,1,1,3,5,3,5,3,5,5,5,5,2,5,4,3,3,5,1,5 - Hella,5 - Hella,5 - Hella,5 - Hella,1 - Meh,2,5 - Hella,5 - Hella,1 - Meh,#N/A,#N/A
+9/21/2022 13:43:03,egoldrey@ucsc.edu,"Goldreyer, Ethan",ARTG,3,5,1,1,3,5,1,1,2,1,1,4,1,4,2,1,5,3,5,4,4,2,3,3,5 - Hella,5 - Hella,3,3,3,2,1 - Meh,2,3,#N/A,#N/A
+9/21/2022 14:26:13,puhe@ucsc.edu,"He, Puyi",CMPM,3,4,1,1,1,1,1,1,5,1,3,4,1,1,1,1,4,2,3,2,1,1,3,1,1 - Meh,4,1 - Meh,5 - Hella,4,4,5 - Hella,5 - Hella,3,#N/A,#N/A
+9/21/2022 15:34:08,jojlewis@ucsc.edu,"Lewis, Jonathan",CMPM,5,4,1,4,5,4,1,1,5,4,3,5,3,5,4,4,5,5,5,5,4,1,4,3,3,5 - Hella,5 - Hella,5 - Hella,2,3,3,5 - Hella,3,#N/A,#N/A
+9/21/2022 15:42:39,grho@ucsc.edu,"Ho, Grace",CMPM,5,2,5,2,5,2,2,5,5,2,3,3,3,3,4,1,5,3,4,5,3,4,4,1,2,5 - Hella,3,5 - Hella,5 - Hella,3,1 - Meh,5 - Hella,5 - Hella,#N/A,#N/A
+9/21/2022 16:58:37,aadresel@ucsc.edu,"Dresel-Kurtz, Andrew",ARTG,1,4,4,2,1,5,4,2,5,5,5,5,5,5,5,5,5,3,4,4,5,4,3,4,5 - Hella,5 - Hella,3,4,2,4,1 - Meh,3,3,#N/A,#N/A
+9/21/2022 18:09:43,tnoell@ucsc.edu,"Noell, Thomas",CMPM,5,1,2,5,5,1,2,5,1,1,5,5,5,5,3,5,5,4,4,5,5,3,4,5,5 - Hella,5 - Hella,4,3,1 - Meh,2,2,3,4,#N/A,#N/A
+9/21/2022 20:36:11,bjpaulse@ucsc.edu,"Paulsen, Benjamin",CMPM,4,4,1,5,4,4,1,5,1,1,2,3,2,3,3,3,5,5,3,5,4,2,3,4,5 - Hella,4,4,5 - Hella,5 - Hella,5 - Hella,2,2,5 - Hella,#N/A,#N/A
+9/22/2022 6:30:08,jindgin@ucsc.edu,"Indgin, Jake",ARTG,4,4,1,1,5,5,1,1,5,5,5,5,5,5,4,5,5,1,5,4,5,4,3,5,5 - Hella,5 - Hella,4,5 - Hella,2,3,1 - Meh,2,3,#N/A,#N/A
+9/22/2022 8:15:32,abarciab@ucsc.edu,"Barcia-Bacon, Aidan",ARTG,1,1,4,1,5,5,4,2,3,4,1,1,1,1,5,2,5,5,5,5,5,5,4,5,4,5 - Hella,2,5 - Hella,5 - Hella,5 - Hella,1 - Meh,1 - Meh,2,#N/A,#N/A
+9/22/2022 8:21:21,alzhen@ucsc.edu,"Zhen, Alicia",ARTG,4,4,1,1,4,4,1,1,1,4,4,4,4,4,4,4,5,1,5,5,5,4,4,2,5 - Hella,5 - Hella,4,3,3,5 - Hella,1 - Meh,5 - Hella,5 - Hella,#N/A,#N/A
+9/22/2022 12:09:05,etqnguye@ucsc.edu,"Nguyen, Ethan",CMPM,2,5,2,5,2,5,2,5,2,5,5,5,5,5,5,5,4,5,4,5,3,1,4,4,5 - Hella,5 - Hella,1 - Meh,5 - Hella,3,5 - Hella,1 - Meh,5 - Hella,4,#N/A,#N/A
+9/22/2022 12:14:28,kthaux@ucsc.edu,"Haux, Keaton",CMPM,1,4,1,4,1,4,1,4,4,4,2,1,2,1,5,3,3,4,3,4,3,1,5,3,4,4,4,3,2,1 - Meh,1 - Meh,3,5 - Hella,#N/A,#N/A
+9/22/2022 12:38:18,ecoo@ucsc.edu,"Coo, Em",CMPM,3,5,2,4,4,5,2,4,4,2,5,4,5,4,3,4,5,4,4,4,2,3,4,3,5 - Hella,5 - Hella,3,5 - Hella,2,1 - Meh,1 - Meh,4,5 - Hella,#N/A,#N/A
+9/22/2022 12:47:28,anyim@ucsc.edu,"Yim, Angela",ARTG,5,5,2,4,5,1,2,4,3,1,2,1,5,5,5,3,5,2,5,4,2,3,4,3,2,5 - Hella,4,5 - Hella,3,3,1 - Meh,5 - Hella,5 - Hella,#N/A,#N/A
+9/22/2022 12:59:02,mye9@ucsc.edu,"Ye, Minghui",CMPM,4,2,1,4,4,2,4,4,4,2,2,5,2,5,3,5,4,3,3,3,3,4,2,2,4,2,,3,4,4,2,2,2,#N/A,#N/A
+9/22/2022 13:00:07,vizheng@ucsc.edu,"Zheng, Vivian",CMPM,4,3,3,4,4,3,4,4,4,3,2,4,4,4,5,5,5,5,5,5,4,3,4,5,5 - Hella,5 - Hella,3,5 - Hella,3,5 - Hella,3,4,4,#N/A,#N/A
+9/22/2022 13:00:09,bzhang72@ucsc.edu,"Zhang, Brian",ARTG,1,5,1,1,2,1,1,1,5,5,1,3,1,3,1,1,5,5,3,5,4,3,2,4,5 - Hella,5 - Hella,3,5 - Hella,3,3,2,2,2,#N/A,#N/A
+9/22/2022 13:00:56,eplyler@ucsc.edu,"Plyler, Emery",CMPM,2,4,1,2,2,4,1,5,1,2,3,4,3,4,4,4,4,4,4,5,3,2,3,3,4,5 - Hella,4,5 - Hella,4,3,1 - Meh,1 - Meh,5 - Hella,#N/A,#N/A
+9/22/2022 13:05:55,jwsquire@ucsc.edu,"Squires, Joseph",ARTG,5,1,3,3,5,1,3,3,5,5,5,5,1,5,3,5,5,4,5,4,4,2,3,3,3,5 - Hella,3,5 - Hella,1 - Meh,3,2,1 - Meh,4,#N/A,#N/A
+9/22/2022 13:38:13,dolaes@ucsc.edu,"Olaes, Daniel",CMPM,2,4,1,2,5,5,1,2,5,5,4,4,4,4,5,5,5,5,5,5,4,3,3,5,4,5 - Hella,3,5 - Hella,2,3,1 - Meh,3,5 - Hella,#N/A,#N/A
+9/22/2022 13:39:55,jegerard@ucsc.edu,"Gerard, Jackson",CMPM,3,3,3,4,2,3,3,4,5,5,4,3,2,2,4,1,3,4,4,3,5,3,2,5,5 - Hella,4,2,4,3,4,1 - Meh,5 - Hella,5 - Hella,#N/A,#N/A
+9/22/2022 13:41:51,szhan253@ucsc.edu,"Zhang, Siyi",CMPM,2,4,1,1,2,4,1,1,1,1,2,4,2,4,4,4,1,4,1,3,3,4,4,3,3,3,3,3,4,3,3,4,2,#N/A,#N/A
+9/22/2022 13:47:49,luamoore@ucsc.edu,"Moore, Lucas",CMPM,1,3,1,5,3,1,1,1,1,1,5,5,5,5,5,5,4,3,5,3,3,3,4,4,5 - Hella,4,2,3,2,4,1 - Meh,3,3,#N/A,#N/A
+9/22/2022 14:03:58,jerow@ucsc.edu,"Row, Jeff",ARTG,5,5,1,4,5,5,1,3,5,1,5,3,3,1,2,3,3,3,5,5,3,2,3,3,3,4,4,4,3,3,1 - Meh,1 - Meh,4,#N/A,#N/A
+9/22/2022 14:11:48,dyang46@ucsc.edu,"Yang, Dongling",CMPM,1,3,1,3,1,4,1,3,1,5,5,5,5,5,5,5,5,4,3,3,3,2,2,2,2,4,5 - Hella,5 - Hella,3,3,1 - Meh,1 - Meh,3,#N/A,#N/A
+9/22/2022 14:14:35,mleung14@ucsc.edu,"Leung, Michael",CMPM,4,4,2,5,4,4,2,3,3,1,5,5,5,5,5,5,4,3,4,4,1,2,5,3,4,3,4,3,3,3,3,2,2,#N/A,#N/A
+9/22/2022 14:19:30,wgadd@ucsc.edu,"Gadd, William",CMPM,4,1,1,1,4,5,1,1,4,4,1,3,1,3,3,3,4,3,4,4,3,1,3,3,5 - Hella,3,4,2,3,3,4,5 - Hella,5 - Hella,#N/A,#N/A
+9/22/2022 14:21:27,jgaito@ucsc.edu,"Gaito, Juan",ARTG,2,4,1,4,2,4,1,4,4,5,3,3,3,3,3,3,5,2,5,4,5,3,3,5,5 - Hella,5 - Hella,3,5 - Hella,3,4,1 - Meh,4,5 - Hella,#N/A,#N/A
+9/22/2022 14:23:30,nlaureta@ucsc.edu,"Laureta, Nathan",CMPM,1,4,1,3,1,4,1,3,1,5,2,5,2,5,5,5,1,3,3,5,2,3,4,2,4,4,2,3,3,2,3,4,3,#N/A,#N/A
+9/22/2022 14:34:53,lyiyang@ucsc.edu,"Lu, Yiyang",CMPM,3,1,1,5,3,2,1,2,2,1,1,5,1,5,4,2,3,4,2,4,3,4,3,3,3,4,3,4,3,1 - Meh,2,3,3,#N/A,#N/A
+9/22/2022 14:42:57,gimasmit@ucsc.edu,"Smith, Giovanni",ARTG,2,1,1,4,4,1,1,5,5,5,3,3,3,2,4,4,4,3,2,4,2,3,4,2,4,5 - Hella,2,5 - Hella,3,2,1 - Meh,3,3,#N/A,#N/A
+9/22/2022 15:00:30,caxchen@ucsc.edu,"Chen, Casey",ARTG,5,2,3,1,5,1,3,1,4,1,5,5,5,5,3,2,5,5,3,5,4,1,2,1,3,5 - Hella,2,5 - Hella,2,2,1 - Meh,2,3,#N/A,#N/A
+9/22/2022 15:45:19,ncprieto@ucsc.edu,"Prieto, Nathan",CMPM,4,1,3,3,4,1,3,3,5,1,4,4,4,4,3,4,3,4,5,4,4,3,2,5,5 - Hella,4,2,2,1 - Meh,2,2,1 - Meh,3,#N/A,#N/A
+9/22/2022 15:47:37,alu27@ucsc.edu,"Lu, Ashley",ARTG,1,5,2,3,1,5,2,3,1,5,2,4,2,4,5,4,5,3,3,5,3,3,4,3,5 - Hella,5 - Hella,3,5 - Hella,2,3,1 - Meh,4,4,#N/A,#N/A
+9/22/2022 16:19:23,jrhuecke@ucsc.edu,"Hueckel, Ryan",CMPM,2,4,2,3,2,4,2,3,5,5,5,5,5,5,5,5,3,5,2,4,3,2,3,5,5 - Hella,3,1 - Meh,4,2,1 - Meh,2,2,4,#N/A,#N/A
+9/22/2022 17:17:19,jwong993@ucsc.edu,"Wong, Johnny",CMPM,4,2,4,1,4,2,4,2,4,2,4,3,4,4,4,4,5,4,4,4,2,4,2,2,5 - Hella,4,4,4,4,4,3,4,,#N/A,#N/A
+9/22/2022 17:19:34,dwear@ucsc.edu,"Wear, Devin",ARTG,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,1,5,3,5,5,2,3,4,3,5 - Hella,4,3,2,3,4,1 - Meh,2,3,#N/A,#N/A
+9/22/2022 17:26:40,elorenz@ucsc.edu,"Lorenz, Emersen",CMPM,1,2,1,5,5,3,1,5,3,1,5,5,5,5,5,5,5,4,5,5,3,4,1,3,4,5 - Hella,2,5 - Hella,1 - Meh,4,1 - Meh,1 - Meh,5 - Hella,#N/A,#N/A
+9/22/2022 17:34:58,jbeedle@ucsc.edu,"Beedle, Justin",CMPM,4,1,4,1,4,1,4,1,4,1,3,4,3,4,5,5,5,3,4,4,2,2,4,3,5 - Hella,4,3,5 - Hella,3,5 - Hella,2,5 - Hella,4,#N/A,#N/A
+9/22/2022 17:39:25,stantamj@ucsc.edu,"Tantamjarik, Salil",CMPM,3,1,1,4,2,4,1,4,1,4,3,5,3,5,5,5,3,5,2,5,3,3,4,4,5 - Hella,5 - Hella,4,3,1 - Meh,4,1 - Meh,3,4,#N/A,#N/A
+9/22/2022 17:43:37,zhollawa@ucsc.edu,"Hollaway, Zachary",ARTG,1,5,1,1,1,3,1,4,1,5,1,3,1,3,2,4,4,3,3,4,2,3,4,2,3,5 - Hella,2,5 - Hella,3,4,4,2,1 - Meh,#N/A,#N/A
+9/22/2022 18:11:10,cmathie@ucsc.edu,"Mathie, Christopher",ARTG,4,1,4,1,4,5,4,5,4,1,2,5,2,5,4,3,5,1,4,5,4,2,2,5,5 - Hella,5 - Hella,3,5 - Hella,3,4,2,2,4,#N/A,#N/A
+9/22/2022 18:13:26,jjhung@ucsc.edu,"Hung, Jonathan",ARTG,4,3,3,1,4,3,3,1,4,3,5,1,5,1,5,2,5,3,4,4,4,2,5,3,4,5 - Hella,2,5 - Hella,3,4,2,2,3,#N/A,#N/A
+9/22/2022 19:01:50,pejjones@ucsc.edu,"Jones, Peyton",CMPM,1,3,1,1,1,3,1,1,1,1,1,1,1,1,4,4,4,5,4,4,4,2,3,4,3,2,3,4,3,3,,4,3,#N/A,#N/A
+9/22/2022 19:14:35,karturne@ucsc.edu,"Turner, Kai",ARTG,5,5,1,1,5,5,4,5,2,2,5,5,5,5,4,4,5,3,4,5,3,2,2,5,4,2,5 - Hella,2,2,4,4,3,5 - Hella,#N/A,#N/A
+9/22/2022 19:16:42,afuhrman@ucsc.edu,"Fuhrman, Adam",ARTG,5,5,3,1,5,4,3,1,5,3,5,5,5,5,5,2,4,1,3,4,3,3,3,3,1 - Meh,4,4,4,1 - Meh,1 - Meh,2,4,2,#N/A,#N/A
+9/22/2022 19:23:11,abahador@ucsc.edu,"Bahadori, Amanda",ARTG,5,4,2,1,5,4,2,1,3,1,5,5,5,5,5,5,5,2,3,4,3,2,4,3,5 - Hella,5 - Hella,2,3,4,2,2,5 - Hella,5 - Hella,#N/A,#N/A
+9/22/2022 19:50:13,tgoing@ucsc.edu,"Going, Tatum",ARTG,4,5,1,1,3,5,1,1,4,2,5,1,5,5,4,2,5,3,5,5,5,4,2,3,2,5 - Hella,5 - Hella,4,1 - Meh,1 - Meh,1 - Meh,3,3,#N/A,#N/A
+9/22/2022 20:12:38,nlabate@ucsc.edu,"Abate, Niccolo",CMPM,2,1,3,1,1,1,1,1,5,1,3,3,3,3,5,3,5,5,5,4,3,3,3,4,2,4,5 - Hella,4,2,5 - Hella,1 - Meh,2,3,#N/A,#N/A
+9/22/2022 20:35:07,mkubiak@ucsc.edu,"Kubiak, Mason",CMPM,1,1,3,3,4,4,4,3,4,5,1,4,1,1,3,3,3,5,4,5,3,1,3,3,5 - Hella,4,4,4,3,3,3,2,3,#N/A,#N/A
+9/22/2022 20:36:20,acvuong@ucsc.edu,"Vuong, Aaron",CMPM,1,5,3,3,1,5,3,3,1,5,5,5,5,5,5,5,4,4,3,3,2,3,4,3,4,4,3,2,2,5 - Hella,1 - Meh,4,5 - Hella,#N/A,#N/A
+9/22/2022 21:06:27,rle50@ucsc.edu,"Le, Randy",CMPM,3,4,1,1,4,5,4,2,1,5,3,4,3,4,4,5,4,5,2,4,3,4,3,2,5 - Hella,4,4,3,1 - Meh,2,1 - Meh,5 - Hella,3,#N/A,#N/A
+9/22/2022 21:14:49,kzhang74@ucsc.edu,"Zhang, Neo",CMPM,3,4,1,3,4,4,1,4,2,3,3,5,3,3,4,2,5,4,4,5,4,4,5,3,5 - Hella,5 - Hella,5 - Hella,3,1 - Meh,5 - Hella,1 - Meh,3,4,#N/A,#N/A
+9/22/2022 21:48:08,nrthomas@ucsc.edu,"Thomas, Niklas",CMPM,2,3,2,2,1,1,2,5,1,1,3,3,3,3,4,4,5,4,4,5,5,3,3,4,5 - Hella,4,2,4,1 - Meh,2,2,3,5 - Hella,#N/A,#N/A
+9/22/2022 22:37:24,mrmishra@ucsc.edu,"Mishra, Mrinmoyee",CMPM,2,4,2,4,2,4,2,4,4,5,4,5,4,5,5,5,4,5,4,4,2,2,4,1,2,4,5 - Hella,3,5 - Hella,5 - Hella,1 - Meh,2,3,#N/A,#N/A
+9/22/2022 22:56:58,jchen446@ucsc.edu,"Chen, Jason",CMPM,1,1,1,3,1,1,1,3,1,1,1,5,1,5,5,5,4,4,1,4,1,2,3,2,5 - Hella,4,1 - Meh,1 - Meh,3,4,4,2,3,#N/A,#N/A
+9/22/2022 23:18:04,dbartolu@ucsc.edu,"Bartolucci, Daren",ARTG,1,1,4,5,1,1,4,5,3,5,2,2,2,2,3,1,4,3,5,5,5,3,3,5,3,4,5 - Hella,5 - Hella,2,2,1 - Meh,4,5 - Hella,#N/A,#N/A
+9/22/2022 23:19:27,pli60@ucsc.edu,"Li, Pengfei",CMPM,1,5,1,5,1,1,1,5,1,5,3,5,3,5,5,5,4,3,3,3,3,2,4,3,5 - Hella,5 - Hella,3,4,5 - Hella,5 - Hella,3,4,3,#N/A,#N/A
+9/22/2022 23:34:55,gcruzmar@ucsc.edu,"Cruz Martinez, Gustavo",CMPM,4,3,2,3,4,3,2,4,4,4,4,4,4,4,3,4,4,4,2,4,3,2,2,3,5 - Hella,5 - Hella,3,5 - Hella,3,4,2,2,2,#N/A,#N/A
+9/22/2022 23:43:28,mkim139@ucsc.edu,"Kim, Michelle",CMPM,5,5,1,1,5,5,1,1,5,5,1,1,5,5,5,1,4,4,4,4,4,2,3,4,4,5 - Hella,5 - Hella,4,4,5 - Hella,1 - Meh,5 - Hella,4,#N/A,#N/A
+9/22/2022 23:44:45,mitanguy@ucsc.edu,"Nguyen, Huy",ARTG,3,5,1,1,3,5,1,1,3,5,3,5,3,5,4,4,4,4,4,4,2,3,3,4,5 - Hella,5 - Hella,3,4,3,3,3,3,3,#N/A,#N/A
+9/23/2022 0:50:28,kirstenl@ucsc.edu,"Lindblad, Kirsten",ARTG,3,3,1,1,3,3,1,1,5,5,2,4,2,4,1,1,4,5,3,5,4,4,5,4,4,4,5 - Hella,4,3,4,3,4,4,#N/A,#N/A
+9/23/2022 1:44:52,mphannav@ucsc.edu,"Phannavong, Michael",CMPM,4,2,1,4,4,1,1,1,1,1,5,5,5,5,3,5,4,4,3,4,3,1,4,3,4,3,3,4,1 - Meh,5 - Hella,1 - Meh,5 - Hella,4,#N/A,#N/A
+9/23/2022 1:59:47,acchi@ucsc.edu,"Chi, Arrian",CMPM,5,3,1,1,5,3,1,1,4,2,2,1,3,3,5,2,4,5,4,4,4,2,3,4,4,4,5 - Hella,4,5 - Hella,3,1 - Meh,3,5 - Hella,#N/A,#N/A
+9/23/2022 3:51:34,amhou@ucsc.edu,"Hou, Eden",ARTG,2,4,1,1,2,4,1,1,2,5,2,4,2,4,4,4,5,4,5,4,4,1,4,3,2,5 - Hella,3,5 - Hella,3,2,1 - Meh,5 - Hella,3,#N/A,#N/A
+9/23/2022 7:27:37,cyiu1@ucsc.edu,"Yiu, Ching Kei",ARTG,1,5,1,5,1,5,1,5,1,5,1,2,1,2,2,2,4,2,4,3,1,5,3,2,5 - Hella,5 - Hella,2,4,3,3,1 - Meh,1 - Meh,3,#N/A,#N/A
+9/23/2022 8:33:08,rametzge@ucsc.edu,"Metzger, Raymond",CMPM,5,5,2,2,5,5,2,2,5,5,1,1,1,1,4,1,1,4,4,4,3,4,2,3,3,4,2,4,4,5 - Hella,5 - Hella,2,3,#N/A,#N/A
+9/23/2022 9:02:58,mremorin@ucsc.edu,"Remorin, Michael Christian",ARTG,1,3,5,1,3,3,5,1,3,5,3,3,3,3,2,2,5,5,4,5,1,4,3,1,5 - Hella,5 - Hella,5 - Hella,1 - Meh,2,3,2,5 - Hella,3,#N/A,#N/A
+9/23/2022 9:14:22,sanovom@ucsc.edu,"Novom, Syvan",ARTG,5,5,1,1,5,5,2,4,5,5,1,1,1,3,5,3,4,1,5,5,3,3,4,4,3,5 - Hella,4,5 - Hella,2,5 - Hella,1 - Meh,1 - Meh,4,#N/A,#N/A
+9/23/2022 9:16:23,ywang682@ucsc.edu,"Wang, Yongbo",CMPM,1,5,1,1,1,5,1,1,1,2,4,4,4,4,1,1,4,3,2,5,3,2,3,4,5 - Hella,5 - Hella,1 - Meh,5 - Hella,1 - Meh,1 - Meh,1 - Meh,3,1 - Meh,#N/A,#N/A
+9/23/2022 9:21:02,npastori@ucsc.edu,"Pastoria, Nicholas",CMPM,3,4,2,2,3,4,2,2,5,5,1,1,5,5,1,5,5,4,4,5,4,4,3,4,5 - Hella,5 - Hella,3,3,2,3,3,2,3,#N/A,#N/A
+9/23/2022 10:18:24,rysmccar@ucsc.edu,"Mccarty, Ryan",ARTG,2,5,2,3,2,4,2,5,2,2,3,2,4,4,3,4,4,3,5,4,4,2,2,2,3,5 - Hella,3,5 - Hella,2,4,2,4,5 - Hella,#N/A,#N/A
+9/23/2022 11:15:38,nppham@ucsc.edu,"Pham, Nelson",CMPM,2,5,1,4,5,5,1,1,5,5,2,4,2,2,5,3,4,4,4,5,2,2,3,4,4,4,4,4,3,4,5 - Hella,4,2,#N/A,#N/A
+9/23/2022 11:30:06,jfrument@ucsc.edu,"Frumenti, Joe",CMPM,5,1,5,1,5,1,5,1,5,5,5,5,5,5,1,1,2,5,3,5,5,4,3,4,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,1 - Meh,4,1 - Meh,5 - Hella,#N/A,#N/A
+9/23/2022 11:32:34,naguevar@ucsc.edu,"Guevara, Nicolas",CMPM,5,3,1,1,5,3,1,1,3,1,5,5,5,3,5,3,4,4,4,4,3,3,5,3,5 - Hella,5 - Hella,3,4,2,2,1 - Meh,2,3,#N/A,#N/A
+9/23/2022 11:34:08,icowan@ucsc.edu,"Cowan, Ian",CMPM,2,3,3,5,2,1,3,4,2,4,2,2,5,5,4,5,3,5,4,5,4,2,3,1,5 - Hella,5 - Hella,4,4,4,2,2,3,4,#N/A,#N/A
+9/23/2022 11:34:36,craffiel@ucsc.edu,"Raffield, Calex",CMPM,3,4,1,1,3,4,1,1,3,4,4,4,3,1,4,4,4,5,4,5,4,4,4,3,5 - Hella,4,1 - Meh,2,1 - Meh,2,3,2,4,#N/A,#N/A
+9/23/2022 11:39:06,rzhong6@ucsc.edu,"Zhong, Daniel",CMPM,3,1,1,1,3,1,1,3,4,4,3,3,3,3,5,3,3,5,1,3,2,3,3,3,,,,,,,,,,#N/A,#N/A
+9/23/2022 11:50:51,esherris@ucsc.edu,"Sherris-Watt, Eamon",ARTG,1,4,3,2,1,4,3,2,3,2,2,5,3,5,4,4,4,4,4,3,2,4,4,2,4,5 - Hella,5 - Hella,3,3,4,2,3,1 - Meh,#N/A,#N/A
+9/23/2022 11:55:19,stao7@ucsc.edu,"Tao, Siwen",CMPM,3,5,4,3,3,5,4,3,5,5,4,4,4,4,5,5,4,5,3,4,3,3,4,2,5 - Hella,5 - Hella,3,4,5 - Hella,3,5 - Hella,2,1 - Meh,#N/A,#N/A
+9/23/2022 11:59:24,kquansah@ucsc.edu,"Quansah, Kofi",CMPM,3,4,1,5,4,3,1,5,2,3,3,5,2,5,5,5,3,4,3,4,4,2,2,4,4,5 - Hella,5 - Hella,4,2,5 - Hella,1 - Meh,3,4,#N/A,#N/A
+9/23/2022 12:00:06,dalcarro@ucsc.edu,"Carroll, David",ARTG,5,5,1,1,5,5,1,1,1,1,1,1,3,5,5,5,4,3,5,4,5,3,4,3,3,3,3,5 - Hella,5 - Hella,4,1 - Meh,1 - Meh,5 - Hella,#N/A,#N/A
+9/23/2022 12:01:53,somibell@ucsc.edu,"Bell, Solomon",ARTG,5,3,5,1,5,3,5,1,5,4,5,3,5,3,4,4,5,2,5,5,5,4,3,5,5 - Hella,4,4,4,3,3,3,1 - Meh,3,#N/A,#N/A
+9/23/2022 12:04:28,edgopez@ucsc.edu,"Gopez, Edward",ARTG,1,1,3,4,2,4,3,4,3,3,1,1,1,3,3,3,5,3,5,4,4,2,3,5,5 - Hella,3,2,5 - Hella,2,4,2,2,5 - Hella,#N/A,#N/A
+9/23/2022 12:07:32,jhuan221@ucsc.edu,"Huang, Jessica",CMPM,5,1,3,1,5,5,3,1,5,5,5,5,5,5,4,4,4,4,5,5,5,3,2,4,3,4,5 - Hella,3,3,2,2,4,3,#N/A,#N/A
+9/23/2022 12:10:45,mathill@ucsc.edu,"Hill, Matthew",ARTG,3,5,1,2,1,5,1,1,1,5,1,3,1,4,3,1,4,5,2,5,4,4,4,5,5 - Hella,5 - Hella,3,5 - Hella,5 - Hella,4,1 - Meh,4,4,#N/A,#N/A
+9/23/2022 12:12:54,kclujan@ucsc.edu,"Lujan, Karoline",ARTG,5,1,2,3,5,1,2,5,2,2,4,4,1,1,3,3,4,3,4,4,3,1,4,4,5 - Hella,5 - Hella,5 - Hella,5 - Hella,3,4,2,2,2,#N/A,#N/A
+9/23/2022 12:23:02,czhao48@ucsc.edu,"Zhao, Chunxuan",CMPM,5,2,2,5,5,2,2,5,5,2,2,5,4,4,4,4,2,3,2,4,1,4,4,4,5 - Hella,5 - Hella,3,5 - Hella,3,3,3,1 - Meh,3,#N/A,#N/A
+9/23/2022 12:23:45,bli261@ucsc.edu,"Li, Felix",CMPM,3,2,3,2,3,2,3,2,4,5,3,5,3,5,5,5,3,5,3,5,5,3,5,5,5 - Hella,5 - Hella,3,5 - Hella,2,3,1 - Meh,1 - Meh,4,#N/A,#N/A
+9/23/2022 12:37:37,kkhau@ucsc.edu,"Khau, Kevin",CMPM,1,5,1,3,1,4,1,3,1,5,1,4,1,4,4,4,4,4,4,4,3,3,4,3,4,4,3,4,2,3,3,3,3,#N/A,#N/A
+9/23/2022 13:07:52,srosborn@ucsc.edu,"Osborne, Sean",ARTG,1,4,1,2,1,4,1,5,1,4,1,4,1,4,5,5,2,1,2,3,3,2,2,3,2,3,2,4,2,3,1 - Meh,5 - Hella,3,#N/A,#N/A
+9/23/2022 13:11:48,mjnakaji@ucsc.edu,"Nakajima, Masateru",ARTG,5,1,1,1,5,5,1,4,4,3,1,1,3,3,4,4,5,4,4,5,4,2,3,5,3,4,5 - Hella,5 - Hella,3,5 - Hella,2,3,5 - Hella,#N/A,#N/A
+9/23/2022 13:53:31,anxzhang@ucsc.edu,"Zhang, Annie",ARTG,4,4,1,1,4,4,1,4,3,1,2,2,2,2,4,3,5,3,5,3,5,5,3,5,3,3,3,3,3,3,3,3,3,#N/A,#N/A
+9/23/2022 13:55:32,idrobert@ucsc.edu,"Roberts, Isaiah",ARTG,1,4,1,3,1,3,1,3,1,3,1,2,1,4,3,1,3,1,3,3,1,4,2,2,3,1 - Meh,2,4,5 - Hella,5 - Hella,1 - Meh,1 - Meh,5 - Hella,#N/A,#N/A
+9/23/2022 13:58:07,ilarson@ucsc.edu,"Larson, Ian",ARTG,2,5,1,3,2,5,1,3,2,5,2,5,2,5,4,4,5,3,5,4,4,1,4,3,4,5 - Hella,4,5 - Hella,3,4,1 - Meh,3,4,#N/A,#N/A
+9/23/2022 14:07:17,lyonzon@ucsc.edu,"Yonzon, Loumary",ARTG,1,4,1,1,1,4,1,1,3,3,4,4,4,4,4,1,5,3,4,4,4,2,2,2,4,4,4,4,3,4,,3,4,#N/A,#N/A
+9/23/2022 14:33:28,jjek@ucsc.edu,"Jek, James",CMPM,1,3,1,3,1,3,1,4,1,5,3,5,3,5,4,5,4,4,4,5,3,5,3,4,5 - Hella,5 - Hella,3,4,2,3,3,3,3,#N/A,#N/A
+9/23/2022 14:51:12,awei7@ucsc.edu,"Wei, Andrew",CMPM,3,4,1,3,1,4,1,4,1,4,1,5,1,5,5,5,5,5,5,5,4,3,3,5,5 - Hella,5 - Hella,3,5 - Hella,3,4,2,2,5 - Hella,#N/A,#N/A
+9/23/2022 14:56:20,yhuan135@ucsc.edu,"Huang, Yao",ARTG,1,5,2,5,1,5,2,5,1,5,2,5,2,5,4,5,5,2,3,4,3,3,4,1,3,5 - Hella,2,5 - Hella,5 - Hella,4,3,4,3,#N/A,#N/A
+9/23/2022 15:07:09,cherna85@ucsc.edu,"Hernandez, Citlalli",CMPM,3,2,3,3,3,2,4,4,3,2,4,5,4,5,4,4,4,4,2,4,2,3,3,2,4,5 - Hella,3,5 - Hella,3,4,1 - Meh,2,3,#N/A,#N/A
+9/23/2022 15:11:06,amoua4@ucsc.edu,"Moua, Allan",ARTG,3,5,1,5,4,4,1,5,3,5,3,4,3,4,4,4,4,3,4,5,3,2,3,3,5 - Hella,5 - Hella,2,4,2,2,1 - Meh,1 - Meh,3,#N/A,#N/A
+9/23/2022 15:27:23,elmarnol@ucsc.edu,"Arnold, Elizabeth",CMPM,1,2,1,1,1,2,1,2,1,5,1,1,1,1,4,3,4,5,3,4,4,3,3,5,4,5 - Hella,3,5 - Hella,1 - Meh,2,1 - Meh,1 - Meh,3,#N/A,#N/A
+9/23/2022 15:46:13,amoulios@ucsc.edu,"Moulios, Autumn",CMPM,5,3,1,1,5,3,3,4,2,1,2,2,2,2,4,2,4,5,2,4,3,4,4,5,5 - Hella,4,5 - Hella,3,2,5 - Hella,1 - Meh,2,5 - Hella,#N/A,#N/A
+9/23/2022 15:48:54,saponce@ucsc.edu,"Ponce, Santiago",CMPM,4,5,3,1,4,5,3,1,5,5,1,1,3,3,2,2,5,5,4,4,4,5,4,3,4,5 - Hella,1 - Meh,5 - Hella,1 - Meh,5 - Hella,2,4,3,#N/A,#N/A
+9/23/2022 16:08:27,agonz243@ucsc.edu,"Gonzales, Aaron",CMPM,1,5,1,3,5,1,1,2,1,1,1,4,1,4,2,1,3,4,5,5,4,2,4,4,4,4,4,3,1 - Meh,4,1 - Meh,2,3,#N/A,#N/A
+9/23/2022 16:09:19,jobwong@ucsc.edu,"Wong, Joann Marie",ARTG,4,4,2,2,4,4,2,2,4,4,4,4,4,4,4,4,5,2,4,5,3,2,2,4,3,4,4,4,4,3,1 - Meh,4,3,#N/A,#N/A
+9/23/2022 16:10:07,lchen166@ucsc.edu,"Chen, Leon",CMPM,2,4,2,4,2,4,2,4,2,4,2,5,2,5,4,2,4,3,4,5,4,3,4,4,3,5 - Hella,3,5 - Hella,2,4,3,4,3,#N/A,#N/A
+9/23/2022 16:11:42,joclynch@ucsc.edu,"Lynch, John",CMPM,3,3,5,5,3,3,5,5,3,3,1,1,1,1,5,1,4,5,3,4,1,2,4,5,5 - Hella,5 - Hella,2,3,5 - Hella,4,5 - Hella,5 - Hella,4,#N/A,#N/A
+9/23/2022 17:12:01,twei14@ucsc.edu,"Wei, Tiange",ARTG,1,5,1,1,1,5,1,1,1,5,1,5,1,5,1,5,5,5,1,5,4,1,5,1,5 - Hella,5 - Hella,3,5 - Hella,3,5 - Hella,1 - Meh,,3,#N/A,#N/A
+9/23/2022 17:46:20,mperina@ucsc.edu,"Perina, Martin",CMPM,4,2,2,4,4,2,2,4,4,2,4,4,4,4,4,4,2,4,4,3,2,3,4,3,5 - Hella,5 - Hella,5 - Hella,4,5 - Hella,5 - Hella,5 - Hella,4,4,#N/A,#N/A
+9/23/2022 17:55:44,cgwest@ucsc.edu,"West, Cameron",CMPM,1,2,1,2,1,3,1,2,1,3,4,5,4,5,5,5,3,5,4,4,2,3,3,2,5 - Hella,3,4,2,1 - Meh,2,3,4,5 - Hella,#N/A,#N/A
+9/23/2022 18:24:03,kchau6@ucsc.edu,"Chau, Kenny",CMPM,1,4,1,4,1,1,1,4,1,1,5,5,5,5,3,4,2,4,1,4,3,2,3,3,4,4,2,4,5 - Hella,3,1 - Meh,1 - Meh,1 - Meh,#N/A,#N/A
+9/23/2022 19:05:04,yfeng68@ucsc.edu,"Feng, Sam",CMPM,1,4,1,4,1,4,1,4,1,4,2,5,2,5,5,5,5,5,4,5,5,4,3,3,5 - Hella,5 - Hella,4,3,4,4,2,4,5 - Hella,#N/A,#N/A
+9/23/2022 19:36:56,srmadala@ucsc.edu,"Madala, Sriharsha",CMPM,1,2,1,5,1,2,1,5,1,3,1,3,1,3,5,5,3,4,4,5,4,2,2,4,3,4,3,5 - Hella,2,3,1 - Meh,3,4,#N/A,#N/A
+9/23/2022 19:41:00,jwmei@ucsc.edu,"Mei, Jia",CMPM,2,5,1,1,2,5,1,1,2,5,4,4,4,4,3,4,4,4,5,4,4,3,4,4,4,5 - Hella,1 - Meh,5 - Hella,3,4,1 - Meh,1 - Meh,5 - Hella,#N/A,#N/A
+9/23/2022 19:43:50,erangelh@ucsc.edu,"Rangel-Hernandez, Esmeralda",ARTG,3,2,1,4,3,2,1,2,2,5,1,1,1,1,1,1,5,4,4,4,3,2,3,3,2,4,5 - Hella,3,3,3,1 - Meh,5 - Hella,5 - Hella,#N/A,#N/A
+9/23/2022 19:44:49,dberardi@ucsc.edu,"Berardi, Dominic",CMPM,5,3,2,1,5,3,2,4,5,3,5,5,5,5,4,4,4,5,3,5,3,4,4,3,5 - Hella,3,5 - Hella,4,2,3,4,2,2,#N/A,#N/A
+9/23/2022 20:04:08,sstyffe@ucsc.edu,"Styffe, Stephanie",CMPM,4,1,4,2,4,1,1,4,4,2,5,5,1,1,4,4,4,3,4,3,4,4,2,5,4,4,3,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,#N/A,#N/A
+9/23/2022 20:06:02,hobai@ucsc.edu,"Bai, Hongyi",ARTG,1,5,1,1,1,5,1,1,1,1,1,5,1,5,5,5,3,3,3,5,3,3,3,5,3,3,3,1 - Meh,1 - Meh,3,1 - Meh,4,1 - Meh,#N/A,#N/A
+9/23/2022 20:10:29,manovak@ucsc.edu,"Novak, Newton",ARTG,1,4,4,1,1,4,3,1,5,5,1,3,1,3,5,5,5,3,4,5,4,2,3,5,1 - Meh,4,3,5 - Hella,5 - Hella,1 - Meh,1 - Meh,2,3,#N/A,#N/A
+9/23/2022 20:30:18,antwang@ucsc.edu,"Wang, Andrew",CMPM,4,4,3,3,4,4,3,3,4,4,4,4,4,4,4,4,3,5,4,4,3,2,4,1,4,4,4,4,3,4,2,3,1 - Meh,#N/A,#N/A
+9/23/2022 20:32:56,jijlu@ucsc.edu,"Lu, Jimmy",CMPM,1,1,1,1,1,1,1,1,5,5,5,5,5,5,5,5,4,3,5,3,3,2,4,2,5 - Hella,4,5 - Hella,5 - Hella,3,4,1 - Meh,2,5 - Hella,#N/A,#N/A
+9/23/2022 20:37:03,yyang227@ucsc.edu,"Yang, Yan",ARTG,1,5,1,5,1,5,1,5,1,5,1,5,1,5,5,5,5,2,3,5,3,3,3,1,4,4,4,4,4,4,5 - Hella,4,,#N/A,#N/A
+9/23/2022 20:40:20,ghutama@ucsc.edu,"Hutama, Giandra",CMPM,2,3,1,1,2,3,1,1,3,4,1,5,3,4,4,4,4,4,4,3,3,2,3,3,4,5 - Hella,3,5 - Hella,3,3,2,3,4,#N/A,#N/A
+9/23/2022 20:51:17,jdahlber@ucsc.edu,"Dahlberg, Jeremy",CMPM,1,4,1,1,1,3,1,1,5,5,4,4,1,3,4,4,3,5,3,4,3,3,3,3,5 - Hella,5 - Hella,5 - Hella,5 - Hella,2,5 - Hella,4,3,5 - Hella,#N/A,#N/A
+9/23/2022 20:58:56,hmawad@ucsc.edu,"Awad, Hazim",ARTG,2,5,4,5,2,1,4,1,5,5,5,5,5,5,2,3,5,3,2,5,4,3,4,4,3,4,2,5 - Hella,5 - Hella,5 - Hella,1 - Meh,3,,#N/A,#N/A
+9/23/2022 21:02:38,tlee85@ucsc.edu,"Lee, Tai Wen",CMPM,1,3,2,5,1,3,2,5,1,5,1,4,1,4,3,3,2,5,1,4,2,3,4,3,5 - Hella,4,5 - Hella,3,4,3,1 - Meh,1 - Meh,2,#N/A,#N/A
+9/23/2022 21:05:03,hhechtl@ucsc.edu,"Hechtl, Hunter",ARTG,3,5,3,1,3,5,3,1,3,5,3,1,5,5,3,3,4,2,4,3,3,3,4,5,4,4,2,5 - Hella,3,3,4,2,5 - Hella,#N/A,#N/A
+9/23/2022 21:20:28,fihsu@ucsc.edu,"Hsu, Fiona",CMPM,1,3,1,1,4,4,1,1,4,5,4,4,4,4,4,2,4,3,5,3,3,2,3,3,3,4,4,5 - Hella,2,4,1 - Meh,5 - Hella,3,#N/A,#N/A
+9/23/2022 21:31:09,joavelar@ucsc.edu,"Velarde-Ruiz, Jose",CMPM,4,4,2,4,4,4,2,4,3,1,2,4,2,4,3,3,3,4,4,4,2,3,4,2,4,4,3,4,3,4,2,4,3,#N/A,#N/A
+9/23/2022 21:36:03,didiaz@ucsc.edu,"Diaz, David",CMPM,5,5,1,1,5,5,1,1,5,5,5,5,5,1,3,3,5,5,5,5,4,2,2,5,3,,4,5 - Hella,1 - Meh,5 - Hella,1 - Meh,3,5 - Hella,#N/A,#N/A
+9/23/2022 21:37:31,lilpham@ucsc.edu,"Pham, Lily",ARTG,1,3,1,3,1,4,1,3,1,1,1,3,1,3,4,3,5,3,4,3,3,2,3,2,5 - Hella,5 - Hella,2,5 - Hella,3,2,1 - Meh,5 - Hella,3,#N/A,#N/A
+9/23/2022 22:01:34,anlkenne@ucsc.edu,"Kennedy, Annika",ARTG,1,5,1,2,1,5,1,2,2,4,2,1,5,5,3,3,5,3,4,3,2,2,4,3,3,3,4,5 - Hella,1 - Meh,4,1 - Meh,3,3,#N/A,#N/A
+9/23/2022 22:31:13,ykim156@ucsc.edu,"Kim, Spencer",ARTG,3,5,3,5,3,5,3,5,1,1,1,1,1,1,3,1,2,1,2,4,3,3,3,3,3,3,3,3,3,3,3,3,3,#N/A,#N/A
+9/23/2022 22:45:54,ddelacer@ucsc.edu,"De La Cerda, Dylan",CMPM,3,4,2,2,3,4,2,2,4,5,3,3,1,1,4,3,4,4,3,4,3,3,3,3,4,4,4,5 - Hella,4,5 - Hella,3,4,3,#N/A,#N/A
+9/23/2022 22:48:32,axie7@ucsc.edu,"Xie, Alex",CMPM,5,3,2,2,5,1,1,1,3,1,5,2,5,5,2,5,3,4,3,4,5,3,3,3,1 - Meh,2,3,2,3,4,2,4,3,#N/A,#N/A
+9/23/2022 23:04:49,zpthomps@ucsc.edu,"Thompson, Zachary",ARTG,5,5,2,1,5,5,2,1,2,1,2,5,2,5,1,1,2,3,1,3,2,1,3,4,5 - Hella,5 - Hella,3,1 - Meh,3,2,5 - Hella,1 - Meh,1 - Meh,#N/A,#N/A
+9/23/2022 23:11:54,dtran54@ucsc.edu,"Tran, Derek",CMPM,3,5,2,1,3,5,2,1,2,2,3,5,3,5,4,4,4,3,5,4,4,2,5,4,5 - Hella,5 - Hella,3,5 - Hella,4,2,3,2,3,#N/A,#N/A
+9/23/2022 23:29:11,sejtran@ucsc.edu,"Tran, Sean",CMPM,1,1,1,5,1,1,1,1,1,1,3,3,3,3,4,3,2,3,2,4,3,3,3,3,5 - Hella,5 - Hella,3,5 - Hella,3,4,2,3,3,#N/A,#N/A
+9/24/2022 1:41:10,ywei54@ucsc.edu,"Wei, Yunhan",CMPM,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,1,3,1,1,2,1,3,3,3,3,3,3,3,3,3,#N/A,#N/A
+9/24/2022 2:26:58,jummuril@ucsc.edu,"Murillo, Justin",CMPM,4,2,1,4,5,4,2,4,1,4,3,4,3,5,5,4,4,5,3,4,4,3,3,4,5 - Hella,4,4,5 - Hella,1 - Meh,4,2,3,3,#N/A,#N/A
+9/24/2022 8:52:48,bewmarti@ucsc.edu,"Martin, Sophie",CMPM,4,3,3,3,4,3,3,3,3,2,5,2,4,3,5,5,5,5,5,5,3,4,4,3,5 - Hella,4,4,5 - Hella,3,4,3,5 - Hella,5 - Hella,#N/A,#N/A
+9/24/2022 9:20:54,zfeng23@ucsc.edu,"Feng, Zhenglin",ARTG,1,3,1,2,1,4,1,2,1,4,1,4,1,4,5,5,5,2,2,4,3,4,5,3,3,4,5 - Hella,4,1 - Meh,2,1 - Meh,3,4,#N/A,#N/A
+9/24/2022 9:50:41,berchave@ucsc.edu,"Chavez, Benjamin",ARTG,5,1,5,1,5,1,4,1,4,1,4,1,4,4,3,3,5,3,4,5,5,3,2,4,3,5 - Hella,3,5 - Hella,3,4,2,1 - Meh,5 - Hella,#N/A,#N/A
+9/24/2022 10:24:15,abarron2@ucsc.edu,"Barron, Andi",CMPM,1,1,4,3,1,1,3,5,2,1,4,1,4,2,4,2,2,4,2,4,4,2,3,3,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,2,4,#N/A,#N/A
+9/24/2022 11:11:27,yzhu173@ucsc.edu,"Zhu, Yiye",ARTG,4,5,3,4,4,4,4,4,4,4,3,5,4,4,4,4,5,1,5,5,5,5,5,5,5 - Hella,3,4,1 - Meh,2,2,3,2,4,#N/A,#N/A
+9/24/2022 11:14:32,qli94@ucsc.edu,"Li, Qinglan",ARTG,1,3,1,4,1,1,3,4,1,4,1,1,1,1,4,4,4,2,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,#N/A,#N/A
+9/24/2022 12:58:04,zli317@ucsc.edu,"Li, Ziyang",ARTG,1,4,1,5,1,4,1,5,1,4,1,5,1,4,5,5,5,2,5,5,2,5,2,4,2,3,3,4,1 - Meh,4,2,3,3,#N/A,#N/A
+9/24/2022 13:02:08,vderbier@ucsc.edu,"Derbier, Victor",CMPM,5,1,1,1,5,1,1,1,2,4,5,5,5,5,5,3,2,5,5,4,4,1,4,4,3,3,4,4,1 - Meh,5 - Hella,1 - Meh,5 - Hella,5 - Hella,#N/A,#N/A
+9/24/2022 13:12:18,anmahaja@ucsc.edu,"Mahajan, Anika",CMPM,1,4,4,2,1,3,4,2,1,5,3,3,3,3,4,3,4,5,4,3,4,3,4,4,5 - Hella,5 - Hella,5 - Hella,2,2,2,4,3,4,#N/A,#N/A
+9/24/2022 13:18:59,ecadelin@ucsc.edu,"Cadelina, Eliana",ARTG,5,4,1,1,5,4,2,1,2,1,5,5,5,5,2,3,5,4,4,5,4,3,4,4,5 - Hella,5 - Hella,3,4,3,3,1 - Meh,4,5 - Hella,#N/A,#N/A
+9/24/2022 13:28:05,irhoads@ucsc.edu,"Rhoads, Ian",ARTG,3,3,1,2,3,3,3,4,2,5,2,3,2,3,4,3,3,3,5,4,3,2,3,3,4,4,3,4,3,3,2,2,3,#N/A,#N/A
+9/24/2022 13:37:08,mfluss@ucsc.edu,"Fluss, Manny",CMPM,3,4,2,5,3,4,2,4,2,3,1,5,5,5,4,4,3,5,3,4,4,3,3,4,4,4,1 - Meh,2,2,5 - Hella,4,1 - Meh,4,#N/A,#N/A
+9/24/2022 13:40:55,stbchen@ucsc.edu,"Chen, Stanley",CMPM,1,3,2,2,2,3,2,3,1,4,4,4,4,4,4,4,4,5,4,4,3,3,3,4,4,3,3,1 - Meh,4,3,4,4,3,#N/A,#N/A
+9/24/2022 13:45:00,gamarive@ucsc.edu,"Rivera, Gabriel",ARTG,2,2,3,3,3,2,2,1,5,4,3,3,3,3,3,3,3,3,5,4,4,1,3,4,3,3,4,5 - Hella,4,4,1 - Meh,4,3,#N/A,#N/A
+9/24/2022 13:52:54,mmmaldon@ucsc.edu,"Maldonado, Malachi",CMPM,5,2,1,1,5,2,3,1,3,4,5,5,5,5,3,1,2,4,4,5,5,4,5,5,5 - Hella,5 - Hella,4,3,3,4,2,4,5 - Hella,#N/A,#N/A
+9/24/2022 14:05:05,nimtiaz@ucsc.edu,"Imtiaz, Nile",CMPM,1,4,1,5,1,4,1,5,1,5,1,3,1,3,2,2,5,4,4,5,3,2,4,3,5 - Hella,4,5 - Hella,3,2,3,2,4,4,#N/A,#N/A
+9/24/2022 14:05:41,dli97@ucsc.edu,"Li, Darong",CMPM,4,4,4,1,4,1,4,1,4,1,4,4,4,4,4,4,1,5,2,4,4,3,3,4,5 - Hella,5 - Hella,3,3,3,5 - Hella,4,3,3,#N/A,#N/A
+9/24/2022 14:25:05,twprice@ucsc.edu,"Price, Thomas",CMPM,2,5,1,1,2,5,1,1,5,5,5,5,5,5,5,5,3,4,4,4,2,4,3,3,4,4,4,4,3,4,3,3,4,#N/A,#N/A
+9/24/2022 15:27:18,msara@ucsc.edu,"Sara, Manoj",CMPM,3,5,1,1,2,4,1,1,2,5,3,5,3,5,5,5,4,5,3,5,2,2,3,2,3,2,4,4,4,5 - Hella,4,4,5 - Hella,#N/A,#N/A
+9/24/2022 15:31:42,tmthornb@ucsc.edu,"Thornbury, Tracie",ARTG,1,5,1,4,3,1,1,4,1,4,3,5,3,5,5,5,5,4,3,5,3,2,5,4,4,4,2,4,3,4,1 - Meh,5 - Hella,3,#N/A,#N/A
+9/24/2022 15:59:18,hahuja@ucsc.edu,"Ahuja, Hitesh",CMPM,4,5,1,1,4,5,1,1,4,5,1,1,1,4,5,1,3,5,5,5,3,1,3,3,5 - Hella,5 - Hella,2,3,3,4,5 - Hella,2,3,#N/A,#N/A
+9/24/2022 16:01:34,jktemple@ucsc.edu,"Temple, Josh",CMPM,5,5,2,1,5,5,1,2,2,2,2,2,5,5,5,5,4,4,4,4,3,3,3,3,4,5 - Hella,5 - Hella,5 - Hella,2,3,1 - Meh,2,5 - Hella,#N/A,#N/A
+9/24/2022 16:43:04,vvellasa@ucsc.edu,"Vella Sarlo Sanchez, Vinicius",CMPM,2,5,2,3,1,5,1,1,3,5,4,4,4,4,4,5,3,5,4,5,4,1,2,2,5 - Hella,4,3,5 - Hella,1 - Meh,3,1 - Meh,1 - Meh,4,#N/A,#N/A
+9/24/2022 16:48:54,jajphung@ucsc.edu,"Phung, Jacob",ARTG,2,2,5,5,5,4,5,3,2,2,2,2,2,2,3,3,5,2,4,4,1,5,4,3,5 - Hella,3,2,5 - Hella,2,5 - Hella,,3,3,#N/A,#N/A
+9/24/2022 16:54:22,jehto@ucsc.edu,"To, Jennifer",CMPM,4,4,3,4,4,4,3,4,3,4,5,5,5,5,4,4,4,4,4,4,2,2,4,3,5 - Hella,5 - Hella,4,5 - Hella,4,4,2,5 - Hella,4,#N/A,#N/A
+9/24/2022 16:59:08,pqueiroz@ucsc.edu,"Queiroz, Patrick",ARTG,5,5,1,1,4,5,1,1,5,5,3,3,3,1,5,3,5,2,5,4,5,3,4,5,1 - Meh,4,3,5 - Hella,5 - Hella,4,1 - Meh,5 - Hella,5 - Hella,#N/A,#N/A
+9/24/2022 17:18:34,anguy243@ucsc.edu,"Nguyen, Alexander",CMPM,1,1,1,4,4,5,1,4,3,1,3,1,3,1,4,1,3,3,4,4,3,2,4,3,5 - Hella,4,2,2,3,3,5 - Hella,3,3,#N/A,#N/A
+9/24/2022 17:19:25,pggomez@ucsc.edu,"Gomez, Patrick",CMPM,4,2,1,1,4,2,1,1,1,3,4,4,3,3,4,4,4,3,5,5,5,4,5,4,5 - Hella,5 - Hella,3,3,1 - Meh,3,1 - Meh,1 - Meh,5 - Hella,#N/A,#N/A
+9/24/2022 17:30:36,rnewlin@ucsc.edu,"Newlin, Robert",ARTG,3,3,1,1,4,4,1,1,1,1,4,2,4,4,5,2,5,3,4,4,5,4,3,5,5 - Hella,5 - Hella,5 - Hella,4,4,3,5 - Hella,3,3,#N/A,#N/A
+9/24/2022 17:34:05,bquang@ucsc.edu,"Quang, Benjamin",CMPM,4,3,1,1,4,3,1,3,3,3,5,5,5,5,3,5,3,4,3,4,3,2,3,3,4,4,3,4,3,4,4,4,4,#N/A,#N/A
+9/24/2022 17:46:45,zyu82@ucsc.edu,"Yu, Ziyi",CMPM,1,2,1,1,1,2,1,1,1,2,2,4,2,4,4,4,5,4,3,4,3,2,2,5,5 - Hella,4,4,4,5 - Hella,5 - Hella,1 - Meh,5 - Hella,5 - Hella,#N/A,#N/A
+9/24/2022 17:56:32,dhigashi@ucsc.edu,"Higashionna, Dylan",CMPM,5,5,2,1,5,5,2,1,2,3,3,3,3,3,5,4,4,4,4,5,3,4,3,3,4,5 - Hella,3,5 - Hella,2,4,1 - Meh,3,3,#N/A,#N/A
+9/24/2022 17:57:09,czarko@ucsc.edu,"Zarko, Caleb",CMPM,3,3,3,3,3,3,3,3,5,4,4,4,5,1,4,5,4,5,4,5,3,3,3,5,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,#N/A,#N/A
+9/24/2022 18:27:23,lxu58@ucsc.edu,"Xu, Laihong",CMPM,3,1,3,1,3,1,3,1,3,5,2,2,2,2,5,5,2,5,5,5,5,5,5,5,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,#N/A,#N/A
+9/24/2022 18:39:18,analbeni@ucsc.edu,"Benitez Galdamez, Andres",CMPM,5,1,1,5,5,1,1,5,5,1,5,5,5,5,5,5,3,4,4,5,4,1,3,5,5 - Hella,5 - Hella,5 - Hella,5 - Hella,3,2,5 - Hella,2,2,#N/A,#N/A
+9/24/2022 19:03:23,bputaski@ucsc.edu,"Putaski, Benjamin",ARTG,1,4,3,3,1,4,3,5,1,5,3,5,3,5,5,5,5,4,5,5,5,4,2,4,5 - Hella,5 - Hella,2,4,2,3,1 - Meh,3,4,#N/A,#N/A
+9/24/2022 19:12:48,lxiong19@ucsc.edu,"Xiong, Lexin",ARTG,1,5,1,5,1,5,1,5,1,5,5,5,5,5,3,3,5,3,4,5,3,3,3,3,3,4,4,4,5 - Hella,5 - Hella,3,3,5 - Hella,#N/A,#N/A
+9/24/2022 19:33:32,tkopula@ucsc.edu,"Kopula, Thrisha",CMPM,4,5,4,2,4,5,4,2,4,1,3,3,3,3,3,3,5,5,4,5,3,3,2,2,2,4,4,5 - Hella,5 - Hella,4,1 - Meh,5 - Hella,5 - Hella,#N/A,#N/A
+9/24/2022 19:35:12,anpon@ucsc.edu,"Pon, Ankie",CMPM,3,5,1,1,3,5,1,3,1,3,1,5,1,5,3,3,5,3,4,4,3,2,2,4,4,4,1 - Meh,5 - Hella,3,2,3,4,3,#N/A,#N/A
+9/24/2022 19:49:58,rigna@ucsc.edu,"Igna, Reini",ARTG,5,1,2,3,1,1,2,3,1,1,1,3,5,1,3,3,4,3,3,4,3,1,4,5,5 - Hella,5 - Hella,3,5 - Hella,2,4,4,2,,#N/A,#N/A
+9/24/2022 20:00:43,rpalmber@ucsc.edu,"Palmberg, Ryan",ARTG,1,5,2,3,1,2,4,4,1,5,1,3,3,4,3,4,5,3,5,4,3,4,2,5,5 - Hella,5 - Hella,4,5 - Hella,1 - Meh,4,2,5 - Hella,4,#N/A,#N/A
+9/24/2022 20:28:01,rccollaz@ucsc.edu,"Collazo, Roman",ARTG,4,4,1,1,2,1,1,1,2,4,1,1,2,1,2,1,3,3,3,3,2,3,1,2,5 - Hella,5 - Hella,4,5 - Hella,5 - Hella,4,2,1 - Meh,1 - Meh,#N/A,#N/A
+9/24/2022 20:59:13,yji98@ucsc.edu,"Ji, Yuanzheng",CMPM,4,4,1,1,4,4,1,1,4,4,4,4,4,4,4,4,4,4,3,4,1,5,4,2,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,1 - Meh,5 - Hella,3,#N/A,#N/A
+9/24/2022 21:53:40,nrhart@ucsc.edu,"Hart, Noah",CMPM,1,5,1,4,1,5,1,4,1,4,1,2,1,3,5,4,5,5,4,5,5,5,3,5,5 - Hella,5 - Hella,5 - Hella,3,2,1 - Meh,2,1 - Meh,3,#N/A,#N/A
+9/24/2022 21:56:20,oalkharj@ucsc.edu,"Alkharji, Omar",CMPM,3,4,1,5,4,4,1,1,4,2,1,1,3,3,3,2,4,4,2,4,3,2,3,3,5 - Hella,5 - Hella,3,5 - Hella,3,3,2,2,3,#N/A,#N/A
+9/24/2022 22:17:20,kedthoma@ucsc.edu,"Thomas, Kennedy",ARTG,3,2,5,5,3,2,5,5,4,4,1,1,1,1,3,3,5,3,5,5,2,4,4,2,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,3,3,5 - Hella,#N/A,#N/A
+9/24/2022 22:37:43,msangana@ucsc.edu,"Sanganathan, Minmini",CMPM,5,3,1,1,5,3,3,5,5,3,5,5,5,5,2,5,5,3,4,5,4,1,3,3,5 - Hella,5 - Hella,3,5 - Hella,3,5 - Hella,1 - Meh,2,3,#N/A,#N/A
+9/24/2022 22:51:35,memeliu@ucsc.edu,"Liu, Melissa",ARTG,1,5,1,4,1,3,1,4,1,2,2,3,2,3,4,3,5,4,5,5,4,2,4,3,4,5 - Hella,4,5 - Hella,4,5 - Hella,1 - Meh,2,3,#N/A,#N/A
+9/24/2022 22:57:32,lcoronil@ucsc.edu,"Coronilia, Lee",ARTG,1,5,1,2,1,3,2,1,2,3,3,4,1,1,3,1,3,2,3,5,3,1,2,2,5 - Hella,5 - Hella,5 - Hella,5 - Hella,4,5 - Hella,2,1 - Meh,5 - Hella,#N/A,#N/A
+9/24/2022 22:59:35,lflansaa@ucsc.edu,"Flansaas, Logan",ARTG,4,4,2,5,4,4,2,5,4,4,4,5,4,5,2,5,5,4,5,4,3,2,3,5,5 - Hella,4,3,5 - Hella,3,5 - Hella,2,1 - Meh,,#N/A,#N/A
+9/24/2022 22:59:54,wrmorale@ucsc.edu,"Morales, William",CMPM,4,1,1,2,4,1,1,2,1,1,1,4,2,4,5,5,2,3,2,4,3,3,5,3,5 - Hella,5 - Hella,2,5 - Hella,3,2,3,1 - Meh,3,#N/A,#N/A
+9/24/2022 23:01:58,lymsteve@ucsc.edu,"Stevens, Lyza",ARTG,4,5,2,1,4,5,2,1,1,5,5,5,5,5,5,5,5,2,1,5,3,2,4,1,4,5 - Hella,2,5 - Hella,2,1 - Meh,1 - Meh,2,3,#N/A,#N/A
+9/24/2022 23:13:59,jkhou@ucsc.edu,"Khou, Julie",CMPM,3,4,1,4,3,4,1,4,3,4,4,5,4,5,4,4,4,4,4,5,4,2,4,2,5 - Hella,5 - Hella,5 - Hella,4,3,5 - Hella,3,5 - Hella,4,#N/A,#N/A
+9/24/2022 23:17:56,wbtate@ucsc.edu,"Tate, Will",CMPM,4,3,1,1,3,1,1,1,5,3,4,2,5,5,4,3,5,4,4,4,4,4,3,4,5 - Hella,4,4,5 - Hella,1 - Meh,4,2,2,3,#N/A,#N/A
+9/24/2022 23:34:21,rtrieu@ucsc.edu,"Trieu, Rachel",ARTG,3,5,1,1,3,5,1,1,2,2,2,2,2,2,5,3,5,4,4,5,4,4,5,3,4,4,3,4,3,4,2,4,2,#N/A,#N/A
+9/25/2022 1:18:27,eialcara@ucsc.edu,"Alcaraz, Eduardo",CMPM,4,5,1,2,4,2,1,2,2,2,4,5,2,1,5,3,2,4,2,4,4,3,3,5,5 - Hella,5 - Hella,3,5 - Hella,4,4,2,3,3,#N/A,#N/A
+9/25/2022 1:54:47,elgkim@ucsc.edu,"Kim, Ellen",ARTG,4,3,1,1,4,3,1,1,4,2,1,3,1,2,4,4,4,1,2,4,3,3,3,2,4,4,4,4,4,2,2,4,3,#N/A,#N/A
+9/25/2022 2:05:55,sdhaataj@ucsc.edu,"Haataja, Skyler",CMPM,2,3,3,2,4,4,3,2,4,5,4,5,4,5,5,5,3,4,4,4,4,5,4,5,5 - Hella,3,4,4,3,2,3,4,3,#N/A,#N/A
+9/25/2022 2:17:34,mssara@ucsc.edu,"Sara, Manas",CMPM,4,3,1,1,4,3,1,1,3,1,4,5,4,5,5,4,5,4,3,5,3,3,3,3,5 - Hella,4,2,3,2,2,3,1 - Meh,4,#N/A,#N/A
+9/25/2022 2:34:10,cpau3@ucsc.edu,"Pau, Christopher",ARTG,1,4,1,4,1,4,1,4,1,4,1,3,1,3,4,4,4,3,5,4,3,3,3,4,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,5 - Hella,2,5 - Hella,3,#N/A,#N/A
+9/25/2022 11:08:31,mavherre@ucsc.edu,"Herrera, Matthew",ARTG,5,5,1,1,5,5,1,1,5,5,5,5,5,5,4,4,4,2,3,3,2,3,4,2,4,4,4,4,3,2,2,5 - Hella,5 - Hella,#N/A,#N/A
+9/25/2022 13:51:39,trychoi@ucsc.edu,"Choi, Cecil",ARTG,5,5,3,2,5,2,5,3,5,5,5,5,5,5,3,3,5,4,5,5,4,3,5,3,3,3,5 - Hella,4,3,3,1 - Meh,3,5 - Hella,#N/A,#N/A
+9/25/2022 17:30:30,dcdelalu@ucsc.edu,"De La Luz, Dalia",ARTG,1,5,1,5,1,1,1,5,1,5,5,5,1,5,5,5,5,1,5,5,1,3,5,3,4,4,3,5 - Hella,2,2,1 - Meh,5 - Hella,5 - Hella,#N/A,#N/A
+9/25/2022 21:16:44,dwild@ucsc.edu,"Wild, Daniel",CMPM,5,1,1,1,5,1,1,1,5,1,5,5,5,5,5,5,5,5,4,3,3,3,3,3,5 - Hella,4,4,4,4,4,4,4,5 - Hella,#N/A,#N/A
+9/25/2022 21:44:40,mchen146@ucsc.edu,"Chen, Matthew",CMPM,3,1,1,5,3,1,1,5,3,1,5,5,5,5,4,5,4,5,3,5,3,5,4,2,5 - Hella,5 - Hella,5 - Hella,1 - Meh,5 - Hella,4,3,5 - Hella,4,#N/A,#N/A
+9/25/2022 22:08:25,dkim183@ucsc.edu,"Cho, Andrew",ARTG,1,1,1,1,5,5,1,1,5,5,3,3,3,3,4,2,5,2,4,4,3,5,3,3,5 - Hella,4,3,4,2,4,2,2,3,#N/A,#N/A
+9/26/2022 12:00:06,bdvictor@ucsc.edu,"Victorio, Bailey",CMPM,3,3,1,3,1,3,1,3,3,3,5,5,1,1,5,1,4,3,5,5,4,3,4,5,5 - Hella,4,2,3,5 - Hella,4,3,4,5 - Hella,#N/A,#N/A
+9/26/2022 16:58:50,jpuzon@ucsc.edu,"Puzon, Jasha Uriela",ARTG,2,1,1,1,2,1,3,3,2,1,3,2,4,4,5,3,5,2,5,4,2,3,3,4,3,3,4,3,3,5 - Hella,3,5 - Hella,4,#N/A,#N/A
+9/26/2022 17:34:43,emlew@ucsc.edu,"Lew, Evan",CMPM,4,5,3,1,4,5,3,1,4,2,2,4,2,3,3,3,3,4,4,5,3,3,2,2,5 - Hella,4,1 - Meh,5 - Hella,1 - Meh,3,3,3,4,#N/A,#N/A
+9/26/2022 18:48:03,jsatrian@ucsc.edu,"Satriano, Justin",CMPM,1,1,1,1,1,1,1,1,5,5,5,5,5,5,3,5,4,5,5,5,3,3,4,5,5 - Hella,5 - Hella,1 - Meh,4,3,2,2,4,3,#N/A,#N/A
+9/26/2022 19:27:41,miacedil@ucsc.edu,"Cedillo, Miguel",CMPM,3,3,4,3,1,3,4,3,2,5,3,3,3,3,3,3,3,4,4,4,3,3,4,3,4,4,4,2,5 - Hella,2,4,4,5 - Hella,#N/A,#N/A
+9/26/2022 21:22:13,aaltenbu@ucsc.edu,"Altenburg, Aria",CMPM,1,1,2,4,1,1,1,1,5,5,1,1,5,5,2,5,2,4,5,5,4,3,3,3,5 - Hella,5 - Hella,2,5 - Hella,3,2,2,4,4,#N/A,#N/A
+9/26/2022 21:38:06,shgkulka@ucsc.edu,"Kulkarni, Sheel",CMPM,3,5,1,1,3,5,1,1,5,5,3,3,3,3,4,4,3,5,4,5,4,3,4,3,5 - Hella,5 - Hella,4,4,4,4,5 - Hella,5 - Hella,4,#N/A,#N/A
+9/26/2022 23:54:52,amangal@ucsc.edu,"Mangal, Andrew",CMPM,5,4,3,5,5,4,3,5,5,4,4,4,1,3,4,3,5,4,5,4,5,3,3,5,5 - Hella,3,4,4,3,2,2,3,5 - Hella,#N/A,#N/A
+9/27/2022 11:10:12,nklau@ucsc.edu,"Lau, Nicholas",CMPM,1,5,1,1,1,5,1,1,1,5,1,5,1,5,3,3,3,4,2,4,3,5,3,4,4,4,4,4,2,4,1 - Meh,1 - Meh,3,#N/A,#N/A
+9/27/2022 17:30:45,mrodr157@ucsc.edu,"Rodriguez, Margarita",ARTG,4,2,4,2,4,2,4,2,4,2,1,1,1,1,2,2,4,3,4,4,2,2,2,2,2,3,5 - Hella,3,3,5 - Hella,1 - Meh,3,1 - Meh,#N/A,#N/A
+9/27/2022 19:30:14,hocastil@ucsc.edu,"Castillo Del Rio, Horacio",CMPM,1,5,1,5,1,5,1,5,1,5,5,5,5,5,5,5,4,3,5,4,3,3,3,4,5 - Hella,5 - Hella,3,5 - Hella,5 - Hella,3,5 - Hella,3,3,#N/A,#N/A
+9/28/2022 22:21:44,anloeng@ucsc.edu,"Eng, Andy",ARTG,4,4,4,1,4,4,1,1,4,4,2,2,2,2,3,3,4,5,4,5,3,5,1,3,4,4,3,3,3,3,4,2,1 - Meh,#N/A,#N/A
+10/17/2022 21:41:49,javicent@ucsc.edu,"Vicente, Justin",CMPM,3,2,1,4,3,3,1,5,1,3,5,5,5,5,5,5,4,4,4,4,3,2,3,5,4,3,2,5 - Hella,5 - Hella,3,2,4,3,#N/A,#N/A
+10/18/2022 13:19:24,nstepp@ucsc.edu,"Stepp, Nicholas",ARTG,1,5,5,5,5,1,5,5,5,1,5,3,5,3,5,5,5,3,4,4,4,3,4,4,5 - Hella,3,3,3,4,3,4,5 - Hella,5 - Hella,#N/A,#N/A
+10/18/2022 13:37:40,shower@ucsc.edu,"Hower, Sarah",ARTG,1,5,1,4,1,3,1,5,1,2,2,3,2,3,5,4,5,2,5,5,4,4,4,3,4,5 - Hella,4,5 - Hella,4,5 - Hella,1 - Meh,2,3,#N/A,#N/A
+10/18/2022 18:30:57,javicent@ucsc.edu,"Vicente, Justin",CMPM,5,3,2,5,5,4,2,5,2,4,5,5,5,5,5,5,2,5,3,4,3,2,3,5,4,5 - Hella,3,5 - Hella,5 - Hella,3,2,4,3,#N/A,#N/A
+10/18/2022 18:52:03,mmahelon@ucsc.edu,"Mahelona, Micah",ARTG,1,4,1,1,1,4,1,1,4,1,4,4,4,4,5,4,5,2,4,4,4,1,3,4,5 - Hella,5 - Hella,1 - Meh,4,3,1 - Meh,4,3,2,#N/A,#N/A
+10/18/2022 19:30:17,nfonken@ucsc.edu,"Fonken, Naomi",ARTG,5,5,1,4,5,5,1,4,5,5,5,5,5,5,5,5,4,4,4,5,4,1,2,2,4,3,4,4,2,3,2,3,5 - Hella,#N/A,#N/A
+10/18/2022 19:40:36,gsimons@ucsc.edu,"Simons, Graydon",CMPM,4,4,1,1,5,3,1,1,4,2,5,5,5,1,3,3,4,5,3,2,4,1,3,4,3,3,3,3,3,4,3,3,3,#N/A,#N/A
+10/19/2022 16:18:30,karecook@ucsc.edu,"Cook, Kaelen",ARTG,5,5,1,1,3,2,1,1,4,4,4,5,4,4,2,2,5,4,3,4,4,2,1,4,3,5 - Hella,2,4,5 - Hella,3,1 - Meh,1 - Meh,5 - Hella,#N/A,#N/A
+10/19/2022 16:56:27,etaherre@ucsc.edu,"Herrera, Ethan",CMPM,5,5,2,1,5,5,2,1,4,4,4,4,4,4,4,4,2,4,4,4,5,3,5,5,5 - Hella,5 - Hella,2,5 - Hella,3,1 - Meh,2,4,3,#N/A,#N/A
+10/19/2022 17:22:24,lkaldes@ucsc.edu,"Kaldes, Liam",ARTG,3,2,5,5,3,2,5,5,3,5,5,5,5,5,1,5,5,5,3,5,2,3,2,3,5 - Hella,3,1 - Meh,3,1 - Meh,5 - Hella,1 - Meh,5 - Hella,5 - Hella,#N/A,#N/A
+10/20/2022 0:38:45,mimehuan@ucsc.edu,"Huang, Michelle",CMPM,3,3,1,1,3,3,1,1,2,2,4,4,4,4,5,4,4,3,4,5,3,4,5,5,5 - Hella,5 - Hella,2,5 - Hella,2,4,1 - Meh,5 - Hella,4,#N/A,#N/A
+10/20/2022 7:30:01,gremille@ucsc.edu,"Miller, Graham",CMPM,1,5,1,2,2,5,1,1,2,5,5,5,5,5,5,5,4,4,3,4,4,2,3,4,3,4,4,4,3,4,2,2,4,#N/A,#N/A
+11/7/2022 1:57:17,javicent@ucsc.edu,"Vicente, Justin",CMPM,2,3,2,5,2,5,2,3,2,5,1,4,4,4,4,4,4,4,3,4,3,2,4,5,4,4,3,5 - Hella,5 - Hella,3,1 - Meh,3,3,,
